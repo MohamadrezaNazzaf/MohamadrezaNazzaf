@@ -4,7 +4,7 @@
  <a href="https://twitter.com/nazzafff" alt="MohamadReza Nazzaf's Twitter">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&link=https://twitter.com/nazzafff" />
  </a>
- <a href="https://www.linkedin.com/in/nazzafff" alt="MohamadReza Nazzaf's Linkedin">
+ <a href="https://www.linkedin.com/in/mohamadreza-nazzaf-0bb8b7210" alt="MohamadReza Nazzaf's Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mohamadreza-nazzaf-0bb8b7210" />
  </a>
  <a href="mailto:nazzafff@gmail.com" alt="MohamadReza Nazzaf's E-mail">
