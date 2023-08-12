@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm MohammadReza 👋</h1>
 
 <p align="center"> 
- <a href="" alt="MohamadReza Nazzaf's Twitter">
+ <a href="https://twitter.com" alt="MohamadReza Nazzaf's Twitter">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&link=https://twitter.com/nazzafff" />
  </a>
  <a href="https://www.linkedin.com/in/mohamadreza-nazzaf-0bb8b7210" alt="MohamadReza Nazzaf's Linkedin">
