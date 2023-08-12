@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm MohammadReza 👋</h1>
 
 <p align="center"> 
- <a href="https://twitter.com/nazzafff" alt="Mohamad Reza Nazzaf's Twitter">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&link=https://twitter.com/mjebrahimi72" />
+ <a href="https://twitter.com/nazzafff" alt="MohamadReza Nazzaf's Twitter">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&link=https://twitter.com/nazzafff" />
  </a>
- <a href="https://www.linkedin.com/in/nazzafff" alt="Mohamad Reza Nazzaf's Linkedin">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mjebrahimi" />
+ <a href="https://www.linkedin.com/in/nazzafff" alt="MohamadReza Nazzaf's Linkedin">
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mohamadreza-nazzaf-0bb8b7210" />
  </a>
- <a href="mailto:nazzafff@gmail.com" alt="Mohamad Reza Nazzaf's E-mail">
+ <a href="mailto:nazzafff@gmail.com" alt="MohamadReza Nazzaf's E-mail">
    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:nazzafff@gmail.com" />
  </a>
 </p>
@@ -29,7 +29,7 @@
 
 - 🔭 A .NET Backend Developer / Software Engineer • DDD & Microservices Enthusiast.
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, and .NET Core
-- 📫 Follow me on Twitter [@nazzafff](https://twitter.com/intent/follow?screen_name=nazzafff) and Linkedin [@nazzafff](https://www.linkedin.com/in/mjebrahimi/)
-<!-- - 👯 I’m looking to collaborate on: ... -->
+- 📫 Follow me on Linkedin [@nazzafff](https://www.linkedin.com/in/mohamadreza-nazzaf-0bb8b7210/)
+
 
 
