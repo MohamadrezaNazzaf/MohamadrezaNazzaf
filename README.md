@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamad Reza 👋</h1>
+<h1 align="center">Hi there, I'm Mohammad Reza 👋</h1>
 
 <p align="center"> 
  <a href="https://twitter.com/nazzafff" alt="Mohamad Reza Nazzaf's Twitter">
